@@ -16,6 +16,8 @@ This is my personal portfolio website created using HTML, CSS .
 
 ## Purpose
 This project is created to showcase my skills, projects and web development knowledge.
+# screenshot
+see the screenshot add in file
 
 ## Author
 Aashutosh Kumar
